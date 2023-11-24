@@ -1,7 +1,10 @@
-const formulario = document.querySelector('#formulario');
+document.querySelector("#form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  const formulario = document.querySelector("#form");
 
-const procesaTodo = (e) => {
-    e.preventDefault();
-    const datos = new FormData(e.target);
-    console.log(e.target);
-}
+  console.log(formulario);
+  const datos = new FormData(e.target);
+
+  const datosCompletos = Object.fromEntries(datos.entries());
+  console.log(datosCompletos);
+});
