@@ -15,7 +15,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="#">Aprende a Programar</a>
+        <a class="navbar-brand" href="index.html">Aprende a Programar</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -27,21 +27,21 @@
         ></button>
 
         <div class="collapse navbar-collapse flex-row-reverse" id="navbarNav">
+          <form class="d-flex">
+            <input
+              class="form-control mr-sm-2"
+              type="search"
+              placeholder="Buscar..."
+              aria-label="Search"
+            />
+            <button class="btn my-2 my-sm-0" type="submit">
+              <img src="assets/images/lupa.png" alt="lupa" width="20" />
+            </button>
+          </form>
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a href="login.html" class="nav-link">Ingresar</a>
+              <a href="login.html" class="nav-link mx-3">Ingresar</a>
             </li>
-            <form class="d-flex">
-              <input
-                class="form-control mr-sm-2"
-                type="search"
-                placeholder="Buscar..."
-                aria-label="Search"
-              />
-              <button class="btn my-2 my-sm-0" type="submit">
-                <img src="assets/images/lupa.png" alt="lupa" width="20" />
-              </button>
-            </form>
           </ul>
         </div>
       </div>
@@ -56,11 +56,21 @@
           </div>
           <div class="username">
             <label for="contraseña">Contraseña</label>
-            <input id="contraseña" type="password" class="form-control" required />
+            <input
+              id="contraseña"
+              type="password"
+              class="form-control"
+              required
+            />
           </div>
           <div class="username">
             <label for="confirmarContraseña">Confirmar Contraseña</label>
-            <input id="confirmarContraseña" type="password" class="form-control" required />
+            <input
+              id="confirmarContraseña"
+              type="password"
+              class="form-control"
+              required
+            />
           </div>
           <input type="submit" value="Registrarse" class="btn btn-primary" />
           <input type="reset" value="Limpiar" class="btn btn-secondary" />
