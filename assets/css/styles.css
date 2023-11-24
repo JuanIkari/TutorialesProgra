@@ -1,71 +1,95 @@
 body {
-    background-color: #f8f9fa;
+  background-image: url(/assets/images/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bienvenido-container {
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(5px);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  border-radius: 10px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.card:hover {
+  background-color: rgba(255, 255, 255, 0.25);
 }
 
 .formulario {
-    max-width: 500px;
-    margin: 100px auto;
-    padding: 30px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .formulario h1 {
-    text-align: center;
-    font-size: 28px;
-    margin-bottom: 30px;
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
 }
 
 .username {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .username input {
-    width: 100%;
-    padding: 15px;
-    font-size: 20px;
-    border: 1px solid #ced4da;
-    border-radius: 8px;
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .username label {
-    margin-top: 15px;
-    font-size: 20px;
-    color: #6c757d;
-    transition: 0.3s ease all;
+  margin-top: 15px;
+  font-size: 20px;
+  color: #6c757d;
+  transition: 0.3s ease all;
 }
 
 .username input:focus + label,
 .username input:not(:placeholder-shown) + label {
-    margin-top: -20px;
-    font-size: 16px;
-    color: #007bff;
+  margin-top: -20px;
+  font-size: 16px;
+  color: #007bff;
 }
 
 input[type="submit"],
 input[type="reset"] {
-    width: 100%;
-    padding: 15px;
-    font-size: 20px;
-    color: #fff;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 input[type="submit"] {
-    background-color: #007bff;
-    margin-bottom: 20px;
+  background-color: #007bff;
+  margin-bottom: 20px;
 }
 
 input[type="reset"] {
-    background-color: #6c757d;
+  background-color: #6c757d;
 }
 
 input[type="submit"]:hover,
 input[type="reset"]:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
