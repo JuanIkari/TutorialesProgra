@@ -50,13 +50,15 @@
       <div class="formulario">
         <h1>Registrarse</h1>
         <form id="form">
+          <div id="danger"></div>
           <div class="username">
             <label for="usuario">Usuario</label>
-            <input id="usuario" type="text" class="form-control" required />
+            <input name="usuario" id="usuario" type="text" class="form-control" required />
           </div>
           <div class="username">
             <label for="contraseña">Contraseña</label>
             <input
+              name="contraseña"
               id="contraseña"
               type="password"
               class="form-control"
@@ -66,6 +68,7 @@
           <div class="username">
             <label for="confirmarContraseña">Confirmar Contraseña</label>
             <input
+              name="confirmarContraseña"
               id="confirmarContraseña"
               type="password"
               class="form-control"
