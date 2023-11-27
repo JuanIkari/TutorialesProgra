@@ -487,6 +487,228 @@
                     "url": "https://youtu.be/2nzOI-ynXF4?si=sk_UP_BGcjcpiewG"
                 }
             ]
+        },
+        {
+            "categoria":"Java para principiantes",
+            "tutoriales":[
+                {
+                    "titulo": "1. Introducción",
+                    "url": "https://youtu.be/6q7wHs6cH6Y?si=SjIvW7pXLvtduUYO"
+                },
+                {
+                    "titulo": "2. Tipos de datos y variables",
+                    "url": "https://youtu.be/l2mLP7P3jx4?si=F1X-DqHWGt5ax5ev"
+                },
+                {
+                    "titulo": "3. Operadores",
+                    "url": "https://youtu.be/Fswl6scN9cY?si=5a1e5F6Royb4aewR"
+                },
+                {
+                    "titulo": "4. Ejercicio",
+                    "url": "https://youtu.be/dGw8A4wuTHA?si=28mfBJv4AEp8fIcj"
+                },
+                {
+                    "titulo": "5. Condicional if",
+                    "url": "https://youtu.be/tE-a1tH-Iq4?si=CB3KiAD8eDvTIcjK"
+                },
+                {
+                    "titulo": "6. If + else",
+                    "url": "https://youtu.be/wMSKQb6-iEk?si=RTfIR1uINhzDjgh7"
+                },
+                {
+                    "titulo": "7. Condicionales anidados",
+                    "url": "https://youtu.be/B-VmHBBS0W0?si=nyl1b6qW0mA7izog"
+                },
+                {
+                    "titulo": "8. Condicional switch",
+                    "url": "https://youtu.be/HEOdd2RnAko?si=GrEdPdOipuyU5FLS"
+                },
+                {
+                    "titulo": "9. Ejercicio integrador de condicionales",
+                    "url": "https://youtu.be/0fcO3VE_VwE?si=zj2x1FIzp96d4zSZ"
+                },
+                {
+                    "titulo": "10. Operador ternario",
+                    "url": "https://youtu.be/n1Tw6sB_6KY?si=dtWp8wnQzKlXFN83"
+                },
+                {
+                    "titulo": "11. While - estructuras repetitivas",
+                    "url": "https://youtu.be/Vl9asbaZFZg?si=-6k7ObbyMMrLL7Mc"
+                },
+                {
+                    "titulo": "12. Bucles infinitos",
+                    "url": "https://youtu.be/TmIg27se2yk?si=XsBJdn_rzScpp3_E"
+                },
+                {
+                    "titulo": "13. Estructura for",
+                    "url": "https://youtu.be/V7U96RG6MPE?si=yraW4C2uZVSQaDQS"
+                },
+                {
+                    "titulo": "14. Vectores",
+                    "url": "https://youtu.be/Oie_y3Fp-N0?si=tHbnD3qKHZWU-mxT"
+                },
+                {
+                    "titulo": "15. Vectores parte 2",
+                    "url": "https://youtu.be/DEK-tiJLa4Y?si=bCvaxN6XIiFmYavJ"
+                },
+                {
+                    "titulo": "16. Matrices",
+                    "url": "https://youtu.be/eP89Ay-rktw?si=mQIhPeiePzZ2I8PI"
+                },
+                {
+                    "titulo": "17. Matrices parte 2",
+                    "url": "https://youtu.be/Dpni7eA3Eiw?si=nWN1sfnS0vc5vL5H"
+                },
+                {
+                    "titulo": "18. Ejercicio vectores",
+                    "url": "https://youtu.be/C5u72RuvrY4?si=1QZ1P36IknwRlMF8"
+                },
+                {
+                    "titulo": "19. Ejercicio matrices",
+                    "url": "https://youtu.be/QnXOZkPfxG8?si=_fpPa8XsIxsn9MAI"
+                },
+                {
+                    "titulo": "20. Modelo de capas",
+                    "url": "https://youtu.be/C6J0TOlCieM?si=eCDHj_NJROSJGUUo"
+                },
+                {
+                    "titulo": "22. Interfaz gráfica",
+                    "url": "https://youtu.be/Fc4uFeMXBS8?si=Y1WICQNdb7thOgyV"
+                },
+                {
+                    "titulo": "23. Interfaz gráfica parte 2",
+                    "url": "https://youtu.be/DAU0rDqcArs?si=sOsS_M_4sf5_qWj-"
+                }
+            ]
+        },
+        {
+            "categoria":"Java orientado a objetos y bases de datos",
+            "tutoriales":[
+                {
+                    "titulo": "1. Introducción",
+                    "url": "https://youtu.be/tcza2FEz4u4?si=7hbuC7eCFtHHgv0e"
+                },
+                {
+                    "titulo": "2. Clases",
+                    "url": "https://youtu.be/q9gZ9fjKIC0?si=URKfmnN62XK1OQW2"
+                },
+                {
+                    "titulo": "3. Métodos",
+                    "url": "https://youtu.be/pXX3c8BloY0?si=sF_81OPlexUVl-fn"
+                },
+                {
+                    "titulo": "4. Métodos constructores",
+                    "url": "https://youtu.be/fdfXkiuVHp4?si=C4EEfbpRKNxn-f-R"
+                },
+                {
+                    "titulo": "5. Getters y Setters",
+                    "url": "https://youtu.be/ZHK0t5gocjA?si=8g4WHiGGpujVqjrp"
+                },
+                {
+                    "titulo": "6. Herencia",
+                    "url": "https://youtu.be/2hYhpRZFuns?si=Mmd6h0Z_uyQuAx64"
+                },
+                {
+                    "titulo": "7. Polimorfismo",
+                    "url": "https://youtu.be/2jX22t4Bh4k?si=jxfD50inM_X-F1XA"
+                },
+                {
+                    "titulo": "8. Encapsulamiento",
+                    "url": "https://youtu.be/4pnG1h2-fC8?si=ecIJxHhAivXTp0M0"
+                },
+                {
+                    "titulo": "9. Clases abstractas",
+                    "url": "https://youtu.be/I4o7fvSQvBA?si=64-n4rt1QrWWwkDP"
+                },
+                {
+                    "titulo": "10. Interfaces",
+                    "url": "https://youtu.be/hfwtzjOhvKk?si=ouddPKx5WCSIyJSi"
+                },
+                {
+                    "titulo": "11. Ejercicio integrador",
+                    "url": "https://youtu.be/O3hKxRLkLVU?si=QAxjl10ZIVjil47c"
+                },
+                {
+                    "titulo": "12. Sobre escritura y sobre carga de métodos",
+                    "url": "https://youtu.be/H9KE1HmFmTM?si=TCHDwpXW4dAyDcwc"
+                },
+                {
+                    "titulo": "13. Collections",
+                    "url": "https://youtu.be/mE1vnyn_QgU?si=zd2mbFZ1eQ1rgvH0"
+                },
+                {
+                    "titulo": "14. Arraylists",
+                    "url": "https://youtu.be/D0VH50zFVIA?si=pOhW3mz3POdNWUwI"
+                },
+                {
+                    "titulo": "15. Linkedlist",
+                    "url": "https://youtu.be/FIm34V6A4C4?si=7pu7-1YaMWgOAeri"
+                },
+                {
+                    "titulo": "16. Diferencias arraylist y likedlist",
+                    "url": "https://youtu.be/tLTbR9zkUfg?si=PFoo9POX-guO2zdT"
+                },
+                {
+                    "titulo": "17. Stacks",
+                    "url": "https://youtu.be/HB5ksj6Op8c?si=eYMOBemvQt5Ek0Xk"
+                },
+                {
+                    "titulo": "18. Excepciones",
+                    "url": "https://youtu.be/VHy6xFXJ1Rw?si=nLw2hNxu7oc1hTCm"
+                },
+                {
+                    "titulo": "19. Relaciones entre clases",
+                    "url": "https://youtu.be/XKk5k9OrAUg?si=lKtK9U1KyFt0pi-L"
+                },
+                {
+                    "titulo": "20. Convertir tipos de datos",
+                    "url": "https://youtu.be/C-SZqtyDeuU?si=RMuHxyUbr085GGLV"
+                },
+                {
+                    "titulo": "21. JPA introducción",
+                    "url": "https://youtu.be/ppDv4N5A31E?si=q_2Z1OKi_DB2aE-5"
+                },
+                {
+                    "titulo": "22. Conexión MySQL y Persistence unit",
+                    "url": "https://youtu.be/KGzOP__3GjA?si=2wexPLoPeVTaMfFU"
+                },
+                {
+                    "titulo": "23. ORM y annotations de JPA",
+                    "url": "https://youtu.be/qocxxWNvHg4?si=lv95a-pyQ3qIDdhG"
+                },
+                {
+                    "titulo": "24. Controladores JPA",
+                    "url": "https://youtu.be/Z0BOz4wh1zg?si=yoNoWO4FvLS4eIs1"
+                },
+                {
+                    "titulo": "25. CRUD en java",
+                    "url": "https://youtu.be/TPysm6EXOuM?si=Gwn6dYtk4UB25GBF"
+                },
+                {
+                    "titulo": "26. CRUD en java parte 2",
+                    "url": "https://youtu.be/QwM6KHjCunk?si=ZPB-mqORhTPLaP5G"
+                },
+                {
+                    "titulo": "27. CRUD en java parte 3",
+                    "url": "https://youtu.be/sPlR5zzBNr8?si=TdVWvxwGhPReT9Lg"
+                },
+                {
+                    "titulo": "28. CRUD en java parte 4",
+                    "url": "https://youtu.be/tWboE7JVCPI?si=pfLzTUaiMPo7OZyn"
+                },
+                {
+                    "titulo": "29. CRUD en java parte 5",
+                    "url": "https://youtu.be/IT7AI5_9K_M?si=RfebKTWP3EW5-OWJ"
+                },
+                {
+                    "titulo": "30. Creando una app java desde cero",
+                    "url": "https://youtu.be/Gd4QQtQz5DE?si=o0lwqXeszDW2IkF_"
+                },
+                {
+                    "titulo": "31. Creando una app java desde cero parte 2",
+                    "url": "https://youtu.be/pxJ-nzmxSCo?si=mU4ixBECdSfl0AzQ"
+                }
+            ]
         }
     ]
 }
