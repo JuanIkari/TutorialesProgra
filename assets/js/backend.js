@@ -6,7 +6,6 @@ const getTutos = async () => {
     const section = tutorialesData.tutoriales[i];
     const tutosContainer = document.getElementById(`${i + 1}cardGroup`);
     const tutoriales = section.tutoriales;
-    console.log(tutoriales);
 
     const fragment = document.createDocumentFragment();
 
@@ -17,7 +16,7 @@ const getTutos = async () => {
         <div class="card-tuto m-2">
           <div class="card-body">
             <h5 class="card-title">${element.titulo}</h5>
-            <iframe loading="lazy" type="text/html" width="100%" height="280" src="${element.url}" frameborder="0"></iframe>
+            <iframe loading="lazy" type="text/html" width="100%" height="280" src="${element.url}" allowfullscreen frameborder="0"></iframe>
           </div>
         </div>
       `;
