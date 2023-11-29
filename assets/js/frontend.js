@@ -1,39 +1,3 @@
-const usuarioActual = sessionStorage.getItem("usuarioActual");
-
-function cerrarSesion() {
-  sessionStorage.removeItem("usuarioActual");
-  window.location.href = "index.html";
-}
-document.addEventListener("DOMContentLoaded", () => {
-  const navbarNav = document.querySelector(".navbar-nav");
-
-  if (usuarioActual) {
-    navbarNav.innerHTML = `
-        <li class="nav-item">
-          <a href="#" class="nav-link mx-3" onclick="cerrarSesion()">Cerrar sesión (${usuarioActual})</a>
-        </li>`;
-  } else {
-    navbarNav.innerHTML = `
-        <li class="nav-item">
-          <a href="login.html" class="nav-link">Iniciar sesión</a>
-        </li>
-        <li class="nav-item">
-          <a href="register.html" class="nav-link mx-3">Registrarse</a>
-        </li>`;
-  }
-});
-
-function toggleDropdown(clickedElement) {
-  const dropdownContent = clickedElement.nextElementSibling;
-  if(usuarioActual == null){
-    window.location.href = "register.html?from=frontend";
-  }else if (dropdownContent.style.display === "") {
-    dropdownContent.style.display = "none";
-  } else {
-    dropdownContent.style.display = "";
-  }
-}
-
 const getTutos = async () => {
   const data = await fetch("tutoriales.json");
   const tutorialesData = await data.json();
@@ -42,7 +6,6 @@ const getTutos = async () => {
     const section = tutorialesData.tutoriales[i];
     const tutosContainer = document.getElementById(`${i + 1}cardGroup`);
     const tutoriales = section.tutoriales;
-    console.log(tutoriales);
 
     const fragment = document.createDocumentFragment();
 
@@ -53,15 +16,79 @@ const getTutos = async () => {
         <div class="card m-2">
           <div class="card-body">
             <h5 class="card-title">${element.titulo}</h5>
-            <iframe loading="lazy" type="text/html" width="100%" height="280" src="${element.url}" frameborder="0"></iframe>
+            <iframe allowfullscreen="true" width="100%" height="280" frameborder="0"></iframe>
           </div>
         </div>
       `;
 
       fragment.appendChild(card);
+
+      const iframe = card.querySelector("iframe");
+      iframe.src = element.url;
     });
 
     tutosContainer.appendChild(fragment);
   }
 };
-getTutos();
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("keyup", (e) => {
+    if (e.key === "Escape") e.target.value = "";
+
+    if (e.target.matches("#searchInput")) {
+      const searchTerm = e.target.value.toLowerCase();
+      const cards = document.querySelectorAll(".card-body");
+
+      cards.forEach((card) => {
+        const title = card
+          .querySelector(".card-title")
+          .textContent.toLowerCase();
+        const containsTerm = title.includes(searchTerm);
+
+        card.classList.toggle("filtro", !containsTerm);
+
+        const colDiv = card.closest(".col");
+        if (colDiv) {
+          colDiv.classList.toggle("filtro", !containsTerm);
+        }
+      });
+    }
+  });
+  getTutos();
+});
+
+const usuarioActual = sessionStorage.getItem("usuarioActual");
+
+function cerrarSesion() {
+  sessionStorage.removeItem("usuarioActual");
+  window.location.href = "index.html";
+}
+
+const navbarNav = document.querySelector(".navbar-nav");
+
+if (usuarioActual) {
+  navbarNav.innerHTML = `
+      <li class="nav-item">
+        <a href="#" class="nav-link mx-3" onclick="cerrarSesion()">Cerrar sesión (${usuarioActual})</a>
+      </li>`;
+} else {
+  navbarNav.innerHTML = `
+      <li class="nav-item">
+        <a href="login.html" class="nav-link">Iniciar sesión</a>
+      </li>
+      <li class="nav-item">
+        <a href="register.html" class="nav-link mx-3">Registrarse</a>
+      </li>`;
+}
+
+function toggleDropdown(clickedElement) {
+  const dropdownContent = clickedElement.nextElementSibling;
+  if (usuarioActual == null) {
+    window.location.href = "register.html?from=frontend";
+  } else if (dropdownContent.style.display === "") {
+    dropdownContent.style.display = "none";
+  } else {
+    dropdownContent.style.display = "";
+  }
+}
+

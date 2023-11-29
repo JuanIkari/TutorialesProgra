@@ -102,3 +102,7 @@ input[type="reset"]:hover {
   display: inline-block;
   cursor: pointer;
 }
+
+.filtro{
+  display: none;
+}
