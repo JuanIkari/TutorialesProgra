@@ -50,7 +50,7 @@ const getTutos = async () => {
       const card = document.createElement("div");
       card.className = "col";
       card.innerHTML = `
-        <div class="card m-2">
+        <div class="card-tuto m-2">
           <div class="card-body">
             <h5 class="card-title">${element.titulo}</h5>
             <iframe loading="lazy" type="text/html" width="100%" height="280" src="${element.url}" frameborder="0"></iframe>
