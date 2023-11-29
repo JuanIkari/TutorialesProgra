@@ -35,7 +35,7 @@ function toggleDropdown(clickedElement) {
 }
 
 const getTutos = async () => {
-  const data = await fetch("./data/tutoriales.json");
+  const data = await fetch('./data/tutoriales.json');
   const tutorialesData = await data.json();
 
   for (let i = 0; i < tutorialesData.tutoriales.length; i++) {
