@@ -13,7 +13,7 @@ const getTutos = async () => {
       const card = document.createElement("div");
       card.className = "col";
       card.innerHTML = `
-        <div class="card m-2">
+        <div class="card-tuto m-2">
           <div class="card-body">
             <h5 class="card-title">${element.titulo}</h5>
             <iframe allowfullscreen="true" width="100%" height="280" frameborder="0"></iframe>
