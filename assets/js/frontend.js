@@ -63,6 +63,4 @@ const getTutos = async () => {
     tutosContainer.appendChild(fragment);
   }
 };
-
-
 getTutos();

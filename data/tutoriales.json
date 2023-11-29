@@ -5,19 +5,19 @@
             "tutoriales": [
                 {
                     "titulo": "1. ¿Qué es HTML?",
-                    "url": "https://www.youtube.com/embed/vKi9XI3Ya7s"
+                    "url": "https://www.youtube.com/embed/vKi9XI3Ya7s?si=jsFIHu4hmG4UT87n"
                 },
                 {
                     "titulo": "2. textos en HTML",
-                    "url": "https://www.youtube.com/embed/f62qV4fdIsI?si=4qQB9Owcwdqq9Sns"
+                    "url": "https://www.youtube.com/embed/f62qV4fdIsI?si=QqzETRIeqhFss4fE"
                 },
                 {
                     "titulo": "3. Enlaces en HTML",
-                    "url": "https://youtu.be/bVkvzaGAinY?si=Ebh2gUDgqf2IPUI2"
+                    "url": "https://www.youtube.com/embed/bVkvzaGAinY?si=VJfvY7mMyMyRcXGX"
                 },
                 {
                     "titulo": "4. Imágenes, audio video y más en HTML",
-                    "url": "https://youtu.be/VAIn-cUSUHg?si=CZtUzVtMXS3hxP_t"
+                    "url": "https://www.youtube.com/embed/VAIn-cUSUHg?si=SajLPFf2evqUsys6"
                 },
                 {
                     "titulo": "5. Formularios en HTML parte 1",
@@ -25,275 +25,241 @@
                 },
                 {
                     "titulo": "6. Formularios en HTML parte 2",
-                    "url": "https://youtu.be/_TIUTOr43-k?si=Xi3SSjFh7tJykuqJ"
+                    "url": "https://www.youtube.com/embed/q46V0hsrzOk?si=WWlYkqC4qFsDoZPW"
                 },
                 {
                     "titulo": "7. Tablas en HTML",
-                    "url": "https://youtu.be/to3q6bwB8CY?si=l-hUnP2Y7f5vKdKm"
+                    "url": "https://www.youtube.com/embed/to3q6bwB8CY?si=L51o2i8fNuPRPCNl"
                 },
                 {
                     "titulo": "8. Arquitectura cliente servidor",
-                    "url": "https://youtu.be/lC6JOQLIgp0?si=VwRGaeTrezCOtNhV"
+                    "url": "https://www.youtube.com/embed/lC6JOQLIgp0?si=lelWxS3hgQug01o-"
                 },
                 {
                     "titulo": "9. Listas en HTML",
-                    "url": "https://youtu.be/YtlC2fhpqpU?si=d1kLZGKKdNmSRNV1"
+                    "url": "https://www.youtube.com/embed/YtlC2fhpqpU?si=zKu5X3qwwmEaZTPV"
                 },
                 {
                     "titulo": "10. CSS básico",
-                    "url": "https://youtu.be/dxiyQmXBF-k?si=M-lBK8Ym-_3vGkwz"
+                    "url": "https://www.youtube.com/embed/dxiyQmXBF-k?si=PbBfpUaS5Z6YzX3S"
                 },
                 {
                     "titulo": "11. Incorporar CSS a HTML",
-                    "url": "https://youtu.be/ky37jIy8ts4?si=NubXmSDniITwmNGP"
+                    "url": "https://www.youtube.com/embed/ky37jIy8ts4?si=yL6Tvn-KG303YW8e"
                 },
                 {
-                    "titulo": "12. Selectores n CSS",
-                    "url": "https://youtu.be/o4srpChv-eg?si=o75-DWm3qG8gzeIF"
+                    "titulo": "12. Selectores en CSS",
+                    "url": "https://www.youtube.com/embed/o4srpChv-eg?si=KjV49AFxIdT_ZPVj"
                 },
                 {
                     "titulo": "13. Pseudoclases en CSS",
-                    "url": "https://youtu.be/tHdlnl3XUzs?si=Ld-12JNofFJV2h11"
+                    "url": "https://www.youtube.com/embed/tHdlnl3XUzs?si=FssPjd-XmdvjJDcU"
                 },
                 {
                     "titulo": "14. Como usar platillas HTML Y CSS",
-                    "url": "https://youtu.be/MhTO-5Lo2nQ?si=cKLJbhyHoYyakFcV"
+                    "url": "https://www.youtube.com/embed/MhTO-5Lo2nQ?si=VzxBdTGb3m7u4eIJ"
                 }
             ]
 
         },
         {
-            "categoria":"HTML Avanzado",
-            "tutoriales": [
-                {
-                    "titulo": "1. Presentacion",
-                    "url": "https://youtu.be/Qla90rIkOFc?si=M-nhMIBJRh2YNxMr"
-                },
-                {
-                    "titulo": "2. Repaso HTML",
-                    "url": "https://youtu.be/a4w7TCWV-dU?si=sxc9h00ZLyrK-ULn"
-                },
-                {
-                    "titulo": "3. Formularios parte 1",
-                    "url": "https://youtu.be/U5Y5bIXMFGQ?si=tX1VV1Ytq9rDu7jS"
-                },
-                {
-                    "titulo": "4. Formularios parte 2",
-                    "url": "https://youtu.be/bYBoVAeCZL8?si=BcO2C6EB9kFtJFIa"
-                },
-                {
-                    "titulo": "5. Formularios parte 3",
-                    "url": "https://youtu.be/rVv9RCT1XS4?si=O3P5ZbN6pn8-wpOu"
-                },
-                {
-                    "titulo": "6. Canvas",
-                    "url": "https://youtu.be/mFK2rXJuawE?si=aBsG8CpvnBbkD10m"
-                },
-                {
-                    "titulo": "7. Gráficos vectoriales",
-                    "url": "https://youtu.be/esPkvtfVCaI?si=IlacVriKRtpuJB6o"
-                },
-                {
-                    "titulo": "8. El video",
-                    "url": "https://youtu.be/6TewE1BCZ_M?si=haHZA_ZmdWIJdj8_"
-                },
-                {
-                    "titulo": "9. El audio",
-                    "url": "https://youtu.be/_TXLZT5u7bI?si=BZQZ4nv0ygvH2dVj"
-                },
-                {
-                    "titulo": "10. Geolocalización",
-                    "url": "https://youtu.be/b2ABHDbfDe8?si=B-ec1e-q9g-Sqglp"
-                },
-                {
-                    "titulo": "11. Interacciones",
-                    "url": "https://youtu.be/Ioo5phcT13w?si=pwy4jFUqXxun3Qje"
-                },
-                {
-                    "titulo": "12. SEO",
-                    "url": "https://youtu.be/oBmrloY-NBU?si=HHI607zuDaa0pjsh"
-                }
-            ]
-        },
-        {
-            "categoria":"CSS Básico",
+            "categoria":"Curso CSS",
             "tutoriales":[
                 {
-                    "titulo": "1. Presentación",
-                    "url": "https://youtu.be/hTn0i3oGzTw?si=xo3UuWsHkJlNtM2V"
+                    "titulo": "1. Introducción",
+                    "url": "https://www.youtube.com/embed/BWE7dRLf_8U?si=9NQQDMTBRj3zRZa9"
                 },
                 {
-                    "titulo": "2. Introducción",
-                    "url": "https://youtu.be/C1b7ZBejDWo?si=2TMR4GJjNzeGvINv"
+                    "titulo": "2. Primera web con estilos",
+                    "url": "https://www.youtube.com/embed/p89XCkz1qAg?si=wAR-rTY0vviX9YFV"
                 },
                 {
-                    "titulo": "3. Primeros pasos",
-                    "url": "https://youtu.be/T9waa9XN4kQ?si=EStVukDr8c9j96qs"
+                    "titulo": "3. Selectores",
+                    "url": "https://www.youtube.com/embed/wSQ79MSVmV0?si=FgEZJ0jJctBNBZxy"
                 },
                 {
-                    "titulo": "4. Selectores",
-                    "url": "https://youtu.be/pnLihuILwQI?si=DjHu1qWNfCfTNvrk"
+                    "titulo": "4. Selectores parte 2",
+                    "url": "https://www.youtube.com/embed/_MasWh1XA1s?si=Ylq-qzvewEKfxE4q"
                 },
                 {
-                    "titulo": "5. Color",
-                    "url": "https://youtu.be/t8vmTDqbf-M?si=Wtw2WJrUb5iKKCm1"
+                    "titulo": "5. Selectores avanzados",
+                    "url": "https://www.youtube.com/embed/3KYGNWPvVEY?si=cMuNyOGYePVZ2ga0"
                 },
                 {
-                    "titulo": "6. Texto",
-                    "url": "https://youtu.be/5oRtJC2OfLo?si=d3ZnC8RSNMeZo7zW"
+                    "titulo": "6. Fondos",
+                    "url": "https://www.youtube.com/embed/16UJJKSA5X4?si=YeQD6GvfAJ-IghJh"
                 },
                 {
-                    "titulo": "7. ID y clases",
-                    "url": "https://youtu.be/IWWZrHOcHSk?si=87bdCmmtQUanGmDm"
+                    "titulo": "7. Gradientes",
+                    "url": "https://www.youtube.com/embed/6l7hljys8wA?si=NzOAzogZA-l88OtF"
                 },
                 {
-                    "titulo": "87. Contenedor",
-                    "url": "https://youtu.be/j9xCU7vniO4?si=lWbMhtgC_QShWw1E"
+                    "titulo": "8. Enlaces",
+                    "url": "https://www.youtube.com/embed/c1lIQvgAfnc?si=PSxcWmNRCcYr3fs9"
                 },
                 {
-                    "titulo": "9. Modelo caja",
-                    "url": "https://youtu.be/DxRvrDfe94E?si=-bGX6dkAMDa8JhTw"
+                    "titulo": "9. Texto y tipografía",
+                    "url": "https://www.youtube.com/embed/2WWx8rMELM0?si=Dz4PMqL25YhU3iAZ"
                 },
                 {
-                    "titulo": "10. Tipos de elementos",
-                    "url": "https://youtu.be/DxRvrDfe94E?si=SkWER5MV0NplJirt"
+                    "titulo": "10. Unidades de medida",
+                    "url": "https://www.youtube.com/embed/EYA4rpCGeQI?si=oxzGHYK8Pv0PEpuP"
                 },
                 {
-                    "titulo": "11. Pseudo-clases",
-                    "url": "https://youtu.be/cXgqAGQZdaI?si=IlLy64xjcWzTW5YT"
+                    "titulo": "11. Unidades de colores",
+                    "url": "https://www.youtube.com/embed/laLFAifprak?si=iNzUzHivCjsg8QYn"
                 },
                 {
-                    "titulo": "12. Enlaces",
-                    "url": "https://youtu.be/-WTAN4DT44Y?si=ngHjwOL8WMjrt560"
+                    "titulo": "12. Modelo de caja",
+                    "url": "https://www.youtube.com/embed/TyZh3y9_KT4?si=qwCNoUagU3na9p4G"
                 },
                 {
-                    "titulo": "13. Cajas flotantes",
-                    "url": "https://youtu.be/vqrj_qfvWgk?si=8vg6HyX0I1dAtHu_"
+                    "titulo": "13. Tipos de elementos",
+                    "url": "https://www.youtube.com/embed/W5yYsWjYahE?si=LONSJfMRWFcUTe7n"
                 },
                 {
-                    "titulo": "14. Position",
-                    "url": "https://youtu.be/OBEs5y77UDw?si=_zuIDn1MlnJ0TvHB"
+                    "titulo": "14. Diseñando botones",
+                    "url": "https://www.youtube.com/embed/qZ1-_VO9Q5M?si=tSj2RNq9K6iJ7AWO"
                 },
                 {
-                    "titulo": "15. Enlaces parte 2",
-                    "url": "https://youtu.be/TuArETqEtvE?si=ms_EINWExdQwdpgf"
+                    "titulo": "15. Posicionamiento de cajas",
+                    "url": "https://www.youtube.com/embed/curIxHK-fBg?si=oia4KNnBkWuggc22"
                 },
                 {
-                    "titulo": "16. Imágenes y el fondo",
-                    "url": "https://youtu.be/lC3R7N1_CCQ?si=Gz6C3MnnWKlbVeKD"
+                    "titulo": "16. Posicionamiento flotante",
+                    "url": "https://www.youtube.com/embed/LzkeJqqMnUs?si=TZ3JskrXJn84TPos"
                 },
                 {
-                    "titulo": "17. Texto parte 2",
-                    "url": "https://youtu.be/ubnKURsifn8?si=T5PiqyLTp2IVgxn7"
+                    "titulo": "17. Visualización",
+                    "url": "https://www.youtube.com/embed/tr23iSCbEtg?si=PaAwS7_qAO2bPcgP"
                 },
                 {
-                    "titulo": "18. Pagina web - Práctica final",
-                    "url": "https://youtu.be/xsASK674PLg?si=X34nGuv-n4PyzVK2"
-                }
-            ]
-        },
-        {
-            "categoria":"CSS Avanzado",
-            "tutoriales":[
-                {
-                    "titulo": "1. Presentación",
-                    "url": "https://youtu.be/ZLOxEUVSEbg?si=gmN_R-KCOCTFAhd1"
+                    "titulo": "18. Galería de imágenes",
+                    "url": "https://www.youtube.com/embed/MUXDeyTQx3E?si=1fR8RHcnwzwvE05B"
                 },
                 {
-                    "titulo": "2. Bordes parte 1",
-                    "url": "https://youtu.be/JmSWdAl20bs?si=o_UxnB2uOild7Vx8"
+                    "titulo": "19. Sombras",
+                    "url": "https://www.youtube.com/embed/fvkmc6Pqpx8?si=zkh-8j4y7RmCPSvp"
                 },
                 {
-                    "titulo": "3. Bordes parte 2",
-                    "url": "https://youtu.be/cWJPjoOjDqg?si=g34VV9ivXO9jjWGv"
+                    "titulo": "20. Bordes",
+                    "url": "https://www.youtube.com/embed/iMOLe6TbHYw?si=vKrqRe8MuuslJs9f"
                 },
                 {
-                    "titulo": "4. Fondos múltiples",
-                    "url": "https://youtu.be/-wp2mxp4j48?si=Y11sIRb9TTSqoY6R"
+                    "titulo": "21. Pseudo clases",
+                    "url": "https://www.youtube.com/embed/yLUw-D_DTDY?si=9Zfb-xAwN8Oiy4_Y"
                 },
                 {
-                    "titulo": "5. Degradados",
-                    "url": "https://youtu.be/WAVlBTDK26E?si=ecFWoij_hGBi-69o"
+                    "titulo": "22. Pseudo elementos",
+                    "url": "https://www.youtube.com/embed/G3y904G7cUI?si=E9BIyEWzR4tVu9WQ"
                 },
                 {
-                    "titulo": "6. Efecto sombra",
-                    "url": "https://youtu.be/m4b2MKRzTXs?si=00JsXm8CQOxIwlOm"
+                    "titulo": "23. Listas",
+                    "url": "https://www.youtube.com/embed/rgIC7o0cyA8?si=xgOTT_GpqdYc6xUN"
                 },
                 {
-                    "titulo": "7. Efecto de Texto",
-                    "url": "https://youtu.be/OtPbJS_p49Q?si=KtCu0k_Q8EME1_Vw"
+                    "titulo": "24. Menú de navegación",
+                    "url": "https://www.youtube.com/embed/BB7rifavbyI?si=0dPRX30MI_S49pDw"
                 },
                 {
-                    "titulo": "8. Transformación 2D",
-                    "url": "https://youtu.be/FPQBu3US7wg?si=ZVP_MKyA1xSkmVTC"
+                    "titulo": "25. Tablas",
+                    "url": "https://www.youtube.com/embed/BVyS5rLoQ74?si=FY7uEqUzcft5Xcvo"
                 },
                 {
-                    "titulo": "9. Transformación 3D",
-                    "url": "https://youtu.be/ZzHZTBwc32s?si=B2oGkO1rFIsAH5U3"
+                    "titulo": "26. Formulario",
+                    "url": "https://www.youtube.com/embed/amlnyrwt-28?si=hczr0Cjg0p39v7M6"
                 },
                 {
-                    "titulo": "10. Transiciones",
-                    "url": "https://youtu.be/2_zNaShiz9A?si=OOcZqbIh3ZIrJz5R"
+                    "titulo": "27. Propiedad transform",
+                    "url": "https://www.youtube.com/embed/992seiY_6hw?si=oLKE0ObkAm-itWBR"
                 },
                 {
-                    "titulo": "11. Animaciones",
-                    "url": "https://youtu.be/vbWRzI2bS6I?si=-ngoVSjrDIlJqCje"
+                    "titulo": "28. Transiciones",
+                    "url": "https://www.youtube.com/embed/g6g04Y_7hqY?si=S9zE1UJA82XX-Pza"
                 },
                 {
-                    "titulo": "12. Herramientas de información",
-                    "url": "https://youtu.be/dPtNZZTia80?si=KfgrlNehrCJs6Ljx"
+                    "titulo": "29. Animaciones",
+                    "url": "https://www.youtube.com/embed/4FSWG2JQWRA?si=AoZ_fq42qDPBMoOW"
                 },
                 {
-                    "titulo": "13. Imágenes",
-                    "url": "https://youtu.be/dmSDSi7LdVc?si=sVOI0STmG0G4pzo0"
+                    "titulo": "30. Implementar fuentes personalizadas",
+                    "url": "https://www.youtube.com/embed/wwVjWon_HFU?si=vmgTDHJY8pSigxpv"
                 },
                 {
-                    "titulo": "14. Ajustes de objetos",
-                    "url": "https://youtu.be/gx0ngXz0I0s?si=1IOj2OCm4pk12xyz"
+                    "titulo": "31. Dándole estilos a nuestro inicio y header",
+                    "url": "https://www.youtube.com/embed/V-R0kHCWY4U?si=YMlZF1J_0HMkkJIJ"
                 },
                 {
-                    "titulo": "15. Paginación",
-                    "url": "https://youtu.be/Hvssssscop8?si=eRKaoLYecrsUndiP"
+                    "titulo": "32. Dándole estilos a nuestro Main, Aside y Footer",
+                    "url": "https://www.youtube.com/embed/aEXVvfLgXn8?si=qZSB1YbudLlB6F9l"
                 },
                 {
-                    "titulo": "16. Columnas múltiples",
-                    "url": "https://youtu.be/UyXAWJbrvlQ?si=TalxvV1yR3LPDZuV"
+                    "titulo": "33. Diseño responsive",
+                    "url": "https://www.youtube.com/embed/yTP1Dk8PHUI?si=LCfDSuJpN1NvI3dL"
                 },
                 {
-                    "titulo": "17. Variables",
-                    "url": "https://youtu.be/J5tkaXH8MuI?si=EbZlgfpFIl24nO9Z"
+                    "titulo": "34. Introducción a flexbox",
+                    "url": "https://www.youtube.com/embed/1QcpVr4e8dc?si=8JOruH-BNIfKlVMv"
                 },
                 {
-                    "titulo": "18. Media quieries",
-                    "url": "https://youtu.be/2BtdGYS5fQ4?si=ERQsNYEeEDIDKEDG"
+                    "titulo": "35. Propiedades para elementos hijo",
+                    "url": "https://www.youtube.com/embed/ytSbXdKnUHI?si=6Io1hTIeJtCJd8Gn"
                 },
                 {
-                    "titulo": "19. El espaciado",
-                    "url": "https://youtu.be/O_nLYMvEbak?si=W56MnMgvPzkuao8V"
+                    "titulo": "36. Diseñando página con flexbox - estructura",
+                    "url": "https://www.youtube.com/embed/EPKU3NGg3oc?si=LS2H1IQ9bnChK8EI"
                 },
                 {
-                    "titulo": "20. Unidades de medida",
-                    "url": "https://youtu.be/RBdg9IRdzzs?si=FWSOvPKrhC-8IKm6"
+                    "titulo": "37. Diseñando página con flexbox - estilos en el header",
+                    "url": "https://www.youtube.com/embed/_cW0dIslMxU?si=kp6mWKIDqrywXFq3"
                 },
                 {
-                    "titulo": "21. Before and after",
-                    "url": "https://youtu.be/n-vafPXo63k?si=vHc8jTKnmBdE_0Rl"
+                    "titulo": "38. Diseñando una página con flexbox - estilos main y aside",
+                    "url": "https://www.youtube.com/embed/aVPj_ZkyY6c?si=OPUeBixPYUKYUuZ3"
                 },
                 {
-                    "titulo": "22. Selectores avanzados",
-                    "url": "https://youtu.be/MFaHjj_f7hI?si=mWfmqqcA1Pp5_lzB"
+                    "titulo": "39. Diseñando una página con flexbox - estilos footer",
+                    "url": "https://www.youtube.com/embed/7W8ETQauNQU?si=CmtqAz05ZT-43RTM"
                 },
                 {
-                    "titulo": "23. Position absolute",
-                    "url": "https://youtu.be/oJLxklOziRE?si=UGZn2_Xfi1-lde-N"
+                    "titulo": "40. Diseñando una página con flexbox - responsive design",
+                    "url": "https://www.youtube.com/embed/4NXf9BidNjo?si=liWy2UFtK8Wt_0Nq"
                 },
                 {
-                    "titulo": "24. Funciones lógicas",
-                    "url": "https://youtu.be/jzcyiIfEerI?si=m1eS7g0PZYYaN8Kj"
+                    "titulo": "41. Css grid",
+                    "url": "https://www.youtube.com/embed/6LkUlyRawHs?si=N4lm11Xm_MM65a94"
                 },
                 {
-                    "titulo": "25. Función especial",
-                    "url": "https://youtu.be/VmpXPt-WDj0?si=VaW4r54wLkSRrjAp"
+                    "titulo": "42. Creando nuestra primera grid",
+                    "url": "https://www.youtube.com/embed/TJ4T4_fYmdM?si=wgkb0072ojCBSnWY"
+                },
+                {
+                    "titulo": "43. Función minmax()",
+                    "url": "https://www.youtube.com/embed/O_htefoc4V4?si=HnPCce8gtpvC8hS0"
+                },
+                {
+                    "titulo": "44. Función repeat()",
+                    "url": "https://www.youtube.com/embed/NVKfOkRnWJ4?si=NWE7m7v7Uqm2yCb1"
+                },
+                {
+                    "titulo": "45. Posicionamiento",
+                    "url": "https://www.youtube.com/embed/TXoTMYxbFEg?si=QZCUDBE5qZJpCuSS"
+                },
+                {
+                    "titulo": "46. Áreas",
+                    "url": "https://www.youtube.com/embed/1lxAaQSGp5M?si=6jSPmGbc5v6yQohi"
+                },
+                {
+                    "titulo": "47- Alineación de elementos",
+                    "url": "https://www.youtube.com/embed/vaBQIMqLaPg?si=nIVkJlxoNx29riR2"
+                },
+                {
+                    "titulo": "48. Grid implícita",
+                    "url": "https://www.youtube.com/embed/wEyGlDn_IEU?si=r55a0hShF1ab9I4Q"
+                },
+                {
+                    "titulo": "49. Auto fill y auto fit",
+                    "url": "https://www.youtube.com/embed/saEg9mOCrTQ?si=dSKGa0pFWoNqHQYK"
                 }
             ]
         },
@@ -302,91 +268,91 @@
             "tutoriales":[
                 {
                     "titulo": "1. Introducción",
-                    "url": "https://youtu.be/x5YUu0eUc8s?si=IAvkCF3OgldrNPzq"
+                    "url": "https://www.youtube.com/embed/x5YUu0eUc8s?si=tUUnTrxLP2DxIRKF"
                 },
                 {
                     "titulo": "2. Variables y tipos de datos",
-                    "url": "https://youtu.be/kXMpu07zjN4?si=iby6J2WuUA0wuRy_"
+                    "url": "https://www.youtube.com/embed/kXMpu07zjN4?si=gd7s93AEJEwEvpLS"
                 },
                 {
                     "titulo": "3. Asignación, console log y type off",
-                    "url": "https://youtu.be/b5JnlnSLY8g?si=lQCBel59r7EeeTod"
+                    "url": "https://www.youtube.com/embed/b5JnlnSLY8g?si=ao-owYgCYdrX7zqT"
                 },
                 {
                     "titulo": "4. Var, let y const",
-                    "url": "https://youtu.be/a8SJJPvkGIE?si=J1Ky6ndc1lXX9CTm"
+                    "url": "https://www.youtube.com/embed/a8SJJPvkGIE?si=Bu5_8zI3O4ox9jNQ"
                 },
                 {
                     "titulo": "5. Operadores",
-                    "url": "https://youtu.be/A9TBH7tKwVk?si=vtsokhPeeU08U8tw"
+                    "url": "https://www.youtube.com/embed/A9TBH7tKwVk?si=vnJvoz6-wcoTO-zq"
                 },
                 {
                     "titulo": "6. Ejercicio",
-                    "url": "https://youtu.be/6-FiNyCSfLw?si=HIRLQin3D2kWDkwl"
+                    "url": "https://www.youtube.com/embed/6-FiNyCSfLw?si=8PKIWizvhZMV7zMf"
                 },
                 {
                     "titulo": "7. Condicionales if + else + Ejercicio",
-                    "url": "https://youtu.be/XYs3nHEKfeY?si=c1n1m8QL5Uy5267p"
+                    "url": "https://www.youtube.com/embed/XYs3nHEKfeY?si=AAopS1zxMr2l89Ne"
                 },
                 {
                     "titulo": "8. Switch + Ejercicio",
-                    "url": "https://youtu.be/fP-5psZySBA?si=juzWhGsJfGr7VRBV"
+                    "url": "https://www.youtube.com/embed/fP-5psZySBA?si=Vu4tniyJmpjgXblq"
                 },
                 {
                     "titulo": "9. Condicionales ejercicio integrador",
-                    "url": "https://youtu.be/yzsiqrWD4SM?si=u6rGCciRSZJansXX"
+                    "url": "https://www.youtube.com/embed/yzsiqrWD4SM?si=KqsBS9V2-AxkQ_Hs"
                 },
                 {
                     "titulo": "10. Estructura repetitiva while",
-                    "url": "https://youtu.be/JHC2HNKkHd4?si=ngjNHHdsJE4xGTqE"
+                    "url": "https://www.youtube.com/embed/JHC2HNKkHd4?si=urkjViRzg3-oxRrU"
                 },
                 {
                     "titulo": "11. Estructura repetitiva for",
-                    "url": "https://youtu.be/-0t2bLM4SD4?si=hFBqbf4bSDIMJQXE"
+                    "url": "https://www.youtube.com/embed/-0t2bLM4SD4?si=NfAiXS6MI6I8I1vl"
                 },
                 {
                     "titulo": "12. Estructura repetitiva do while",
-                    "url": "https://youtu.be/y5zeqdSafPo?si=lrwqlaU8vDbTYS7i"
+                    "url": "https://www.youtube.com/embed/y5zeqdSafPo?si=yJWVVDsM0ACn6RrX"
                 },
                 {
                     "titulo": "13. Ejercicio contar números",
-                    "url": "https://youtu.be/Jk13o4IujSI?si=4Kotlh-OCERDm6aa"
+                    "url": "https://www.youtube.com/embed/Jk13o4IujSI?si=hjf2gZHWB4NWCkaY"
                 },
                 {
                     "titulo": "14. Ejercicio cuenta regresiva en javascript",
-                    "url": "https://youtu.be/iHD-ARJwgfE?si=Ep-OJ3pOO_m_A9mg"
+                    "url": "https://www.youtube.com/embed/iHD-ARJwgfE?si=pdtdav4YFfR3sG5D"
                 },
                 {
                     "titulo": "15. Alert, confirm y prompt",
-                    "url": "https://youtu.be/75zUnuLtmUY?si=kufGZk5hkayOwWDB"
+                    "url": "https://www.youtube.com/embed/75zUnuLtmUY?si=CMpEO8clF__PZdp-"
                 },
                 {
                     "titulo": "16. Manejo de fechas",
-                    "url": "https://youtu.be/SqmjZcx9xn4?si=YSAJAAlMMLRiJ0DX"
+                    "url": "https://www.youtube.com/embed/SqmjZcx9xn4?si=EnvK4dV7WgerTxRC"
                 },
                 {
                     "titulo": "17. Determinar mayor número",
-                    "url": "https://youtu.be/Dqb8pOhiSps?si=Ynfwf7UfIngbm51H"
+                    "url": "https://www.youtube.com/embed/Dqb8pOhiSps?si=JdblpJIeEpLhxrWj"
                 },
                 {
                     "titulo": "18. Determinar día de la semana",
-                    "url": "https://youtu.be/qUgDF4wn82c?si=XCIBZ9qYqmLlegQP"
+                    "url": "https://www.youtube.com/embed/qUgDF4wn82c?si=9dMhqpKSkzTsqS2P"
                 },
                 {
                     "titulo": "19. Arrays",
-                    "url": "https://youtu.be/Kgl6XMs_CR8?si=wKDUjye9n5iYX93V"
+                    "url": "https://www.youtube.com/embed/Kgl6XMs_CR8?si=a1DQDGKrV3qAAtiX"
                 },
                 {
                     "titulo": "20. Arrays parte 2",
-                    "url": "https://youtu.be/JZJ2F0IthMQ?si=MR211Uiz2ZDNYFd_"
+                    "url": "https://www.youtube.com/embed/JZJ2F0IthMQ?si=EIv1la56YxuZyBPR"
                 },
                 {
                     "titulo": "21. Arrays parte 3",
-                    "url": "https://youtu.be/lynYZc6KJjs?si=T6ZFt5Vl1Qx5xldO"
+                    "url": "https://www.youtube.com/embed/lynYZc6KJjs?si=8T3zevb4Oph4ariK"
                 },
                 {
                     "titulo": "22. Métodos de arrays",
-                    "url": "https://youtu.be/BxGRts-WLgM?si=8b_YuqrF_5Fr27tE"
+                    "url": "https://www.youtube.com/embed/BxGRts-WLgM?si=xcvv7DyT__Eu4goS"
                 }
             ]
         },
@@ -395,59 +361,55 @@
             "tutoriales":[
                 {
                     "titulo": "1. Introducción",
-                    "url": "https://youtu.be/VoMyUgI-5NI?si=L12SaBZ_2h_46s_y"
+                    "url": "https://www.youtube.com/embed/2SwKpVVNfIE?si=eaK83qhrdjDaA6kr"
                 },
                 {
-                    "titulo": "2. Useref, target, eventos y funciones",
-                    "url": "https://youtu.be/mu5CUU3ZtpE?si=j14cPPzbZP-RWAaA"
+                    "titulo": "2. JSX",
+                    "url": "https://www.youtube.com/embed/jxJEXT8j5qA?si=UkA3AEecCzNNUWKB"
                 },
                 {
-                    "titulo": "3. El hook mas usado, useState",
-                    "url": "https://youtu.be/Y5soxUjHg5g?si=bGlYNbrGHNwPf8gn"
+                    "titulo": "3. Componentes y props",
+                    "url": "https://www.youtube.com/embed/EJzX4XSpZFg?si=il_eJetFa0ERfL8F"
                 },
                 {
-                    "titulo": "4. Componentes y sus propiedades",
-                    "url": "https://youtu.be/JEVAFDq3A7Q?si=V8ZEVBL7-WZzd-xZ"
+                    "titulo": "4. UseState y useEffect",
+                    "url": "https://www.youtube.com/embed/C7CZzM7ux0E?si=k5UpLqhAgRHO-RNH"
                 },
                 {
-                    "titulo": "5. React JS desde cero",
-                    "url": "https://youtu.be/f167jT11sFo?si=smaGaNjEH61QJfRG"
+                    "titulo": "5. Promesas y .map()",
+                    "url": "https://www.youtube.com/embed/w1RdYx57Nb4?si=bfYcxGVQ0nCb4dum"
                 },
                 {
-                    "titulo": "6. 06. UseEffect, fetch y Spread Operator",
-                    "url": "https://youtu.be/pBNHeb8QTN0?si=sQSB0DspFMNRumpU"
+                    "titulo": "6. Consumiendo APIs",
+                    "url": "https://www.youtube.com/embed/jYf6OCFx6Mc?si=m9CE7tVuE-CtTcQP"
                 },
                 {
-                    "titulo": "7. Actividad (useContext)",
-                    "url": "https://youtu.be/Ihn2vV0cbDQ?si=YNsn1sUD9fRuCzfg"
+                    "titulo": "7. Routing y navegación",
+                    "url": "https://www.youtube.com/embed/WATv_Md3y_o?si=9IwIu2-rIfq9cXH4"
                 },
                 {
-                    "titulo": "8. Router y SPA",
-                    "url": "https://youtu.be/P8MeyDbMEBE?si=ZjOg-MaTXXJyspkV"
+                    "titulo": "8. Construyendo el proyecto",
+                    "url": "https://www.youtube.com/embed/IuCKQ_1QRhI?si=Cc2XW9854miSANQt"
                 },
                 {
-                    "titulo": "9. Hook useReducer",
-                    "url": "https://youtu.be/czrqIWP13NA?si=Sn3D-eVFm-_UMDnx"
+                    "titulo": "9. Eventos",
+                    "url": "https://www.youtube.com/embed/KWeQ-FqyMcw?si=5S53PS9ZU37WB9p3"
                 },
                 {
-                    "titulo": "10. Multi-routing",
-                    "url": "https://youtu.be/-cUVnjFRe08?si=6urLzNhfv-UWe-Nc"
+                    "titulo": "10. Formularios",
+                    "url": "https://www.youtube.com/embed/EgYbPKNH1IA?si=Akda6236-vGA_QiB"
                 },
                 {
-                    "titulo": "11. React-hook-form, imprimir",
-                    "url": "https://youtu.be/ZhjNPmjnc_M?si=D5ag3Oi1rbdCVUkP"
+                    "titulo": "11. Context y localstorage",
+                    "url": "https://www.youtube.com/embed/Guw9hURRjqw?si=VCGaNESIIqd1gtm4"
                 },
                 {
-                    "titulo": "12. Práctica de contenidos con juego",
-                    "url": "https://youtu.be/5pWKsNz3E3A?si=X5YBOsKWrAXesD4j"
+                    "titulo": "12. Integrando firebase",
+                    "url": "https://www.youtube.com/embed/FH0nW3bQ6Kg?si=UUoWnADwwvhLSlro"
                 },
                 {
-                    "titulo": "13. Práctica",
-                    "url": "https://youtu.be/QgY3FXqO2Yo?si=muSEHuN-WoZUO6T-"
-                },
-                {
-                    "titulo": "14. Juego de memoria, armar parejas",
-                    "url": "https://youtu.be/QTMnTWXmiG8?si=mTAuPKgeWemajYaJ"
+                    "titulo": "13. Integrando datos a firebase",
+                    "url": "https://www.youtube.com/embed/VvH8awK7KYk?si=wHZ7UZIppscJC5SJ"
                 }
             ]
         },
@@ -456,35 +418,35 @@
             "tutoriales":[
                 {
                     "titulo": "1. Introducción",
-                    "url": "https://youtu.be/mCVQgSyjCkI?si=1ruQr6Ym77DRw1eK"
+                    "url": "https://www.youtube.com/embed/mCVQgSyjCkI?si=M5ebm9AHOvoegc0v"
                 },
                 {
                     "titulo": "2. Instalando git",
-                    "url": "https://youtu.be/RAN58Qjf5uY?si=ryffszKIhq3cwdEB"
+                    "url": "https://www.youtube.com/embed/RAN58Qjf5uY?si=kt_8qKtPQryB_Vcl"
                 },
                 {
                     "titulo": "3. Cuenta en git",
-                    "url": "https://youtu.be/LzVfVs5n3Gw?si=cb8PmZz2zQRrx0iC"
+                    "url": "https://www.youtube.com/embed/LzVfVs5n3Gw?si=kOmHw-uGtxPtN_eY"
                 },
                 {
                     "titulo": "4. Comandos git",
-                    "url": "https://youtu.be/osO_eYMIKxM?si=8Uaz3w4CM6NAhjxZ"
+                    "url": "https://www.youtube.com/embed/osO_eYMIKxM?si=fW_-Q7bIZqSEVY9O"
                 },
                 {
                     "titulo": "5. Clone y pull",
-                    "url": "https://youtu.be/IWnW0svZ9JQ?si=DYykjHlb14bbhk5Q"
+                    "url": "https://www.youtube.com/embed/IWnW0svZ9JQ?si=APbJWwHg8U3b1WiH"
                 },
                 {
-                    "titulo": "6. Branches",
-                    "url": "https://youtu.be/gjKKtQVVCZU?si=tQeiEAf_QRM-F9nE"
+                    "titulo": "6. Ramas",
+                    "url": "https://www.youtube.com/embed/gjKKtQVVCZU?si=ZYhYTHRqPcalidvM"
                 },
                 {
                     "titulo": "7. Diff y merge",
-                    "url": "https://youtu.be/W8rwULnu9nA?si=C84gTliyrH0lkMZY"
+                    "url": "https://www.youtube.com/embed/W8rwULnu9nA?si=8Van9VLmCeGm4Rah"
                 },
                 {
                     "titulo": "8. Github acces token",
-                    "url": "https://youtu.be/2nzOI-ynXF4?si=sk_UP_BGcjcpiewG"
+                    "url": "https://www.youtube.com/embed/2nzOI-ynXF4?si=uIRv_2xHYSKkagDi"
                 }
             ]
         },
@@ -493,91 +455,91 @@
             "tutoriales":[
                 {
                     "titulo": "1. Introducción",
-                    "url": "https://youtu.be/6q7wHs6cH6Y?si=SjIvW7pXLvtduUYO"
+                    "url": "https://www.youtube.com/embed/6q7wHs6cH6Y?si=JygIQA7h_P1kx5O7"
                 },
                 {
                     "titulo": "2. Tipos de datos y variables",
-                    "url": "https://youtu.be/l2mLP7P3jx4?si=F1X-DqHWGt5ax5ev"
+                    "url": "https://www.youtube.com/embed/l2mLP7P3jx4?si=m5B0MJ3BkWjXI45w"
                 },
                 {
                     "titulo": "3. Operadores",
-                    "url": "https://youtu.be/Fswl6scN9cY?si=5a1e5F6Royb4aewR"
+                    "url": "https://www.youtube.com/embed/Fswl6scN9cY?si=aTh5bObIO6fSDhGq"
                 },
                 {
                     "titulo": "4. Ejercicio",
-                    "url": "https://youtu.be/dGw8A4wuTHA?si=28mfBJv4AEp8fIcj"
+                    "url": "https://www.youtube.com/embed/dGw8A4wuTHA?si=8AiCL082GWhVhgMy"
                 },
                 {
                     "titulo": "5. Condicional if",
-                    "url": "https://youtu.be/tE-a1tH-Iq4?si=CB3KiAD8eDvTIcjK"
+                    "url": "https://www.youtube.com/embed/tE-a1tH-Iq4?si=GM8ilyG2YnnW2teE"
                 },
                 {
                     "titulo": "6. If + else",
-                    "url": "https://youtu.be/wMSKQb6-iEk?si=RTfIR1uINhzDjgh7"
+                    "url": "https://www.youtube.com/embed/wMSKQb6-iEk?si=dkkv8BPhlM37eFto"
                 },
                 {
                     "titulo": "7. Condicionales anidados",
-                    "url": "https://youtu.be/B-VmHBBS0W0?si=nyl1b6qW0mA7izog"
+                    "url": "https://www.youtube.com/embed/B-VmHBBS0W0?si=kjIrJO8POLXHdblN"
                 },
                 {
                     "titulo": "8. Condicional switch",
-                    "url": "https://youtu.be/HEOdd2RnAko?si=GrEdPdOipuyU5FLS"
+                    "url": "https://www.youtube.com/embed/HEOdd2RnAko?si=vHqETSI1jiUKTT9k"
                 },
                 {
                     "titulo": "9. Ejercicio integrador de condicionales",
-                    "url": "https://youtu.be/0fcO3VE_VwE?si=zj2x1FIzp96d4zSZ"
+                    "url": "https://www.youtube.com/embed/0fcO3VE_VwE?si=DFvciZkOqnX1F1Vz"
                 },
                 {
                     "titulo": "10. Operador ternario",
-                    "url": "https://youtu.be/n1Tw6sB_6KY?si=dtWp8wnQzKlXFN83"
+                    "url": "https://www.youtube.com/embed/n1Tw6sB_6KY?si=yNBBe0R5_Y9GF2fA"
                 },
                 {
                     "titulo": "11. While - estructuras repetitivas",
-                    "url": "https://youtu.be/Vl9asbaZFZg?si=-6k7ObbyMMrLL7Mc"
+                    "url": "https://www.youtube.com/embed/Vl9asbaZFZg?si=wtMI4PVlEkybY4wo"
                 },
                 {
                     "titulo": "12. Bucles infinitos",
-                    "url": "https://youtu.be/TmIg27se2yk?si=XsBJdn_rzScpp3_E"
+                    "url": "https://www.youtube.com/embed/TmIg27se2yk?si=noO8veWRkeuYEcC8"
                 },
                 {
                     "titulo": "13. Estructura for",
-                    "url": "https://youtu.be/V7U96RG6MPE?si=yraW4C2uZVSQaDQS"
+                    "url": "https://www.youtube.com/embed/V7U96RG6MPE?si=bailpP_ktTp43zzS"
                 },
                 {
                     "titulo": "14. Vectores",
-                    "url": "https://youtu.be/Oie_y3Fp-N0?si=tHbnD3qKHZWU-mxT"
+                    "url": "https://www.youtube.com/embed/Oie_y3Fp-N0?si=A2uVkGwLU_ElgsMx"
                 },
                 {
                     "titulo": "15. Vectores parte 2",
-                    "url": "https://youtu.be/DEK-tiJLa4Y?si=bCvaxN6XIiFmYavJ"
+                    "url": "https://www.youtube.com/embed/DEK-tiJLa4Y?si=HHqIc_QijqbhLUyw"
                 },
                 {
                     "titulo": "16. Matrices",
-                    "url": "https://youtu.be/eP89Ay-rktw?si=mQIhPeiePzZ2I8PI"
+                    "url": "https://www.youtube.com/embed/eP89Ay-rktw?si=zzoCEJaPNrRxj-DE"
                 },
                 {
                     "titulo": "17. Matrices parte 2",
-                    "url": "https://youtu.be/Dpni7eA3Eiw?si=nWN1sfnS0vc5vL5H"
+                    "url": "https://www.youtube.com/embed/Dpni7eA3Eiw?si=az60bIAJRvXwvNOa"
                 },
                 {
                     "titulo": "18. Ejercicio vectores",
-                    "url": "https://youtu.be/C5u72RuvrY4?si=1QZ1P36IknwRlMF8"
+                    "url": "https://www.youtube.com/embed/C5u72RuvrY4?si=cLnj-b7KpCVLTe3R"
                 },
                 {
                     "titulo": "19. Ejercicio matrices",
-                    "url": "https://youtu.be/QnXOZkPfxG8?si=_fpPa8XsIxsn9MAI"
+                    "url": "https://www.youtube.com/embed/QnXOZkPfxG8?si=zpssyhujeSwEqtnn"
                 },
                 {
                     "titulo": "20. Modelo de capas",
-                    "url": "https://youtu.be/C6J0TOlCieM?si=eCDHj_NJROSJGUUo"
+                    "url": "https://www.youtube.com/embed/C6J0TOlCieM?si=_ep4ptpYDmywNb-L"
                 },
                 {
                     "titulo": "22. Interfaz gráfica",
-                    "url": "https://youtu.be/Fc4uFeMXBS8?si=Y1WICQNdb7thOgyV"
+                    "url": "https://www.youtube.com/embed/Fc4uFeMXBS8?si=iVd67HaFeYt8udNg"
                 },
                 {
                     "titulo": "23. Interfaz gráfica parte 2",
-                    "url": "https://youtu.be/DAU0rDqcArs?si=sOsS_M_4sf5_qWj-"
+                    "url": "https://www.youtube.com/embed/DAU0rDqcArs?si=9mM-KRXADwraYQV0"
                 }
             ]
         },
@@ -586,127 +548,301 @@
             "tutoriales":[
                 {
                     "titulo": "1. Introducción",
-                    "url": "https://youtu.be/tcza2FEz4u4?si=7hbuC7eCFtHHgv0e"
+                    "url": "https://www.youtube.com/embed/tcza2FEz4u4?si=Yhv4BzykIeJ7qTqc"
                 },
                 {
                     "titulo": "2. Clases",
-                    "url": "https://youtu.be/q9gZ9fjKIC0?si=URKfmnN62XK1OQW2"
+                    "url": "https://www.youtube.com/embed/q9gZ9fjKIC0?si=Y1KkQ744iz1b3i22"
                 },
                 {
                     "titulo": "3. Métodos",
-                    "url": "https://youtu.be/pXX3c8BloY0?si=sF_81OPlexUVl-fn"
+                    "url": "https://www.youtube.com/embed/pXX3c8BloY0?si=zob7HdUEoitHW4Xu"
                 },
                 {
                     "titulo": "4. Métodos constructores",
-                    "url": "https://youtu.be/fdfXkiuVHp4?si=C4EEfbpRKNxn-f-R"
+                    "url": "https://www.youtube.com/embed/fdfXkiuVHp4?si=rZuwaOp6PAnbcTNC"
                 },
                 {
                     "titulo": "5. Getters y Setters",
-                    "url": "https://youtu.be/ZHK0t5gocjA?si=8g4WHiGGpujVqjrp"
+                    "url": "https://www.youtube.com/embed/ZHK0t5gocjA?si=-h0g_MjJKwaZKpA3"
                 },
                 {
                     "titulo": "6. Herencia",
-                    "url": "https://youtu.be/2hYhpRZFuns?si=Mmd6h0Z_uyQuAx64"
+                    "url": "https://www.youtube.com/embed/2hYhpRZFuns?si=jRCMTUn3EmLg9c5w"
                 },
                 {
                     "titulo": "7. Polimorfismo",
-                    "url": "https://youtu.be/2jX22t4Bh4k?si=jxfD50inM_X-F1XA"
+                    "url": "https://www.youtube.com/embed/2jX22t4Bh4k?si=Kn2lmxYIrN8YCpyD"
                 },
                 {
                     "titulo": "8. Encapsulamiento",
-                    "url": "https://youtu.be/4pnG1h2-fC8?si=ecIJxHhAivXTp0M0"
+                    "url": "https://www.youtube.com/embed/4pnG1h2-fC8?si=CefduXq0Mw9CAJIG"
                 },
                 {
                     "titulo": "9. Clases abstractas",
-                    "url": "https://youtu.be/I4o7fvSQvBA?si=64-n4rt1QrWWwkDP"
+                    "url": "https://www.youtube.com/embed/I4o7fvSQvBA?si=P70GzztS2PEe854r"
                 },
                 {
                     "titulo": "10. Interfaces",
-                    "url": "https://youtu.be/hfwtzjOhvKk?si=ouddPKx5WCSIyJSi"
+                    "url": "https://www.youtube.com/embed/hfwtzjOhvKk?si=MwQGM9NFDcf-mkG3"
                 },
                 {
                     "titulo": "11. Ejercicio integrador",
-                    "url": "https://youtu.be/O3hKxRLkLVU?si=QAxjl10ZIVjil47c"
+                    "url": "https://www.youtube.com/embed/O3hKxRLkLVU?si=uTQKOkd_UcMmtlRx"
                 },
                 {
                     "titulo": "12. Sobre escritura y sobre carga de métodos",
-                    "url": "https://youtu.be/H9KE1HmFmTM?si=TCHDwpXW4dAyDcwc"
+                    "url": "https://www.youtube.com/embed/H9KE1HmFmTM?si=F5DQSZkEMVj-IpwY"
                 },
                 {
                     "titulo": "13. Collections",
-                    "url": "https://youtu.be/mE1vnyn_QgU?si=zd2mbFZ1eQ1rgvH0"
+                    "url": "https://www.youtube.com/embed/mE1vnyn_QgU?si=DcKvb7CK5Hdp3pB8"
                 },
                 {
                     "titulo": "14. Arraylists",
-                    "url": "https://youtu.be/D0VH50zFVIA?si=pOhW3mz3POdNWUwI"
+                    "url": "https://www.youtube.com/embed/D0VH50zFVIA?si=nIx2ulk2p05GZrM4"
                 },
                 {
                     "titulo": "15. Linkedlist",
-                    "url": "https://youtu.be/FIm34V6A4C4?si=7pu7-1YaMWgOAeri"
+                    "url": "https://www.youtube.com/embed/FIm34V6A4C4?si=DPqOzKyky-BI168j"
                 },
                 {
                     "titulo": "16. Diferencias arraylist y likedlist",
-                    "url": "https://youtu.be/tLTbR9zkUfg?si=PFoo9POX-guO2zdT"
+                    "url": "https://www.youtube.com/embed/tLTbR9zkUfg?si=vmvacNpcqomowQ8k"
                 },
                 {
                     "titulo": "17. Stacks",
-                    "url": "https://youtu.be/HB5ksj6Op8c?si=eYMOBemvQt5Ek0Xk"
+                    "url": "https://www.youtube.com/embed/HB5ksj6Op8c?si=ZLxw8kECFd6Q6lK4"
                 },
                 {
                     "titulo": "18. Excepciones",
-                    "url": "https://youtu.be/VHy6xFXJ1Rw?si=nLw2hNxu7oc1hTCm"
+                    "url": "https://www.youtube.com/embed/VHy6xFXJ1Rw?si=J44qNuzb2Yv_GcoM"
                 },
                 {
                     "titulo": "19. Relaciones entre clases",
-                    "url": "https://youtu.be/XKk5k9OrAUg?si=lKtK9U1KyFt0pi-L"
+                    "url": "https://www.youtube.com/embed/XKk5k9OrAUg?si=5By8YHtiVgWoWYwx"
                 },
                 {
                     "titulo": "20. Convertir tipos de datos",
-                    "url": "https://youtu.be/C-SZqtyDeuU?si=RMuHxyUbr085GGLV"
+                    "url": "https://www.youtube.com/embed/C-SZqtyDeuU?si=BFOSa0iAjMAlJHC1"
                 },
                 {
                     "titulo": "21. JPA introducción",
-                    "url": "https://youtu.be/ppDv4N5A31E?si=q_2Z1OKi_DB2aE-5"
+                    "url": "https://www.youtube.com/embed/ppDv4N5A31E?si=qmv8lIeeQlg8S41v"
                 },
                 {
                     "titulo": "22. Conexión MySQL y Persistence unit",
-                    "url": "https://youtu.be/KGzOP__3GjA?si=2wexPLoPeVTaMfFU"
+                    "url": "https://www.youtube.com/embed/KGzOP__3GjA?si=kyBodjHDDuB4_p5y"
                 },
                 {
                     "titulo": "23. ORM y annotations de JPA",
-                    "url": "https://youtu.be/qocxxWNvHg4?si=lv95a-pyQ3qIDdhG"
+                    "url": "https://www.youtube.com/embed/qocxxWNvHg4?si=XT26byYw-NQmJBEV"
                 },
                 {
                     "titulo": "24. Controladores JPA",
-                    "url": "https://youtu.be/Z0BOz4wh1zg?si=yoNoWO4FvLS4eIs1"
+                    "url": "https://www.youtube.com/embed/Z0BOz4wh1zg?si=s_t2GqKtdULkKcqt"
                 },
                 {
                     "titulo": "25. CRUD en java",
-                    "url": "https://youtu.be/TPysm6EXOuM?si=Gwn6dYtk4UB25GBF"
+                    "url": "https://www.youtube.com/embed/TPysm6EXOuM?si=Viq1VMOn3SWSTx86"
                 },
                 {
                     "titulo": "26. CRUD en java parte 2",
-                    "url": "https://youtu.be/QwM6KHjCunk?si=ZPB-mqORhTPLaP5G"
+                    "url": "https://www.youtube.com/embed/QwM6KHjCunk?si=XEqso05ELSVZ0f1N"
                 },
                 {
                     "titulo": "27. CRUD en java parte 3",
-                    "url": "https://youtu.be/sPlR5zzBNr8?si=TdVWvxwGhPReT9Lg"
+                    "url": "https://www.youtube.com/embed/sPlR5zzBNr8?si=RPtkOn9l80QUA0aB"
                 },
                 {
                     "titulo": "28. CRUD en java parte 4",
-                    "url": "https://youtu.be/tWboE7JVCPI?si=pfLzTUaiMPo7OZyn"
+                    "url": "https://www.youtube.com/embed/tWboE7JVCPI?si=qiAgwYowke59PDTi"
                 },
                 {
                     "titulo": "29. CRUD en java parte 5",
-                    "url": "https://youtu.be/IT7AI5_9K_M?si=RfebKTWP3EW5-OWJ"
+                    "url": "https://www.youtube.com/embed/IT7AI5_9K_M?si=0PRHV9kXtKQfljOg"
                 },
                 {
                     "titulo": "30. Creando una app java desde cero",
-                    "url": "https://youtu.be/Gd4QQtQz5DE?si=o0lwqXeszDW2IkF_"
+                    "url": "https://www.youtube.com/embed/Gd4QQtQz5DE?si=_txwicdY-cvh0Deo"
                 },
                 {
                     "titulo": "31. Creando una app java desde cero parte 2",
-                    "url": "https://youtu.be/pxJ-nzmxSCo?si=mU4ixBECdSfl0AzQ"
+                    "url": "https://www.youtube.com/embed/pxJ-nzmxSCo?si=4hPlTHcrtFFwZhOG"
+                }
+            ]
+        },
+        {
+            "categoria":"Python para principiantes",
+            "tutoriales":[
+                {
+                    "titulo": "1. Hola mundo",
+                    "url": "https://www.youtube.com/embed/-F2-CMWhmXw?si=TNSgdUszfyV6HASj"
+                },
+                {
+                    "titulo": "2. Operadores",
+                    "url": "https://www.youtube.com/embed/yJjuAVXf910?si=AOXkCFwFYfwS1ejX"
+                },
+                {
+                    "titulo": "3. Strings",
+                    "url": "https://www.youtube.com/embed/Pr-9wkSJDJk?si=CyPXL0egrTlWI6zA"
+                },
+                {
+                    "titulo": "4. Listas y tuplas",
+                    "url": "https://www.youtube.com/embed/PogXFDqR770?si=fCNU-A632CsEvFgo"
+                },
+                {
+                    "titulo": "5. Sets y diccionarios",
+                    "url": "https://www.youtube.com/embed/AaGGZsPaKNg?si=auVlB_VEIC7jwJq-"
+                },
+                {
+                    "titulo": "6. Condicionales y bucles",
+                    "url": "https://www.youtube.com/embed/eU5L7HtwSWM?si=wcym-NGyDJbOa069"
+                },
+                {
+                    "titulo": "7. Funciones y clases",
+                    "url": "https://www.youtube.com/embed/eVdoWDVgCIY?si=2-mEuHSdho5qGFgY"
+                },
+                {
+                    "titulo": "8. Excepciones y módulos",
+                    "url": "https://www.youtube.com/embed/lBdjr0hz_p0?si=6RewQRnUnBvPEB7S"
+                },
+                {
+                    "titulo": "9. Retos de programación",
+                    "url": "https://www.youtube.com/embed/n72X4gDIWPs?si=wyUAChDnK1Fgnbc4"
+                }
+            ]
+        },
+        {
+            "categoria":"Curso Ruby",
+            "tutoriales":[
+                {
+                    "titulo": "1. Introducción",
+                    "url": "https://www.youtube.com/embed/_91ICtG7NxQ?si=685cwotLWYJjtdVS"
+                },
+                {
+                    "titulo": "2. Instalación",
+                    "url": "https://www.youtube.com/embed/uL3QRuIvR-o?si=pbGDxmTHJTG9TJbI"
+                },
+                {
+                    "titulo": "3. Variables y constantes",
+                    "url": "https://www.youtube.com/embed/VhmjruqMYv0?si=AfpsPb6Cl6_M0SLz"
+                },
+                {
+                    "titulo": "4. Variables numéricas",
+                    "url": "https://www.youtube.com/embed/dxl5JG0WCxc?si=k9ZNVXLXpDjAZSwz"
+                },
+                {
+                    "titulo": "5. Interpolación y concatenación",
+                    "url": "https://www.youtube.com/embed/PIVJbNEdWUo?si=3N5K7stkWCr_Fc-J"
+                },
+                {
+                    "titulo": "6. io",
+                    "url": "https://www.youtube.com/embed/xftRhKR-0aA?si=iYI0BcKzuCvcbUJx"
+                },
+                {
+                    "titulo": "7- Booleanos",
+                    "url": "https://www.youtube.com/embed/zP-3jsgznvM?si=orsf8jeZHB88K0pR"
+                },
+                {
+                    "titulo": "8. Estructuras selectivas",
+                    "url": "https://www.youtube.com/embed/uWA7KMCPyJY?si=hya38Re7xnRE7h3o"
+                },
+                {
+                    "titulo": "9. Estructura selectiva unless",
+                    "url": "https://www.youtube.com/embed/_LNSGnb15d8?si=C10Qk4CLIm_jvFkW"
+                },
+                {
+                    "titulo": "10. Estructura selectiva case when",
+                    "url": "https://www.youtube.com/embed/ZPOHDEGBj_U?si=za1MumZ0294Pv8rP"
+                },
+                {
+                    "titulo": "11. Operador ternario",
+                    "url": "https://www.youtube.com/embed/t4UDMneMcmg?si=4tWCkebwvEaHZeb3"
+                },
+                {
+                    "titulo": "12. Arrays",
+                    "url": "https://www.youtube.com/embed/uLFyqDjWHRE?si=D7aQcOnVXLmxNo45"
+                },
+                {
+                    "titulo": "13. While",
+                    "url": "https://www.youtube.com/embed/ixI2LZqAdV4?si=m2_SC4oyPSY3DDm6"
+                },
+                {
+                    "titulo": "14. Do while",
+                    "url": "https://www.youtube.com/embed/UXFcRRKAAx8?si=DNCIJsvxPDe7eD1_"
+                },
+                {
+                    "titulo": "15. Until",
+                    "url": "https://www.youtube.com/embed/JtPQvTjZR6U?si=L6fAayB-zyeCnvki"
+                },
+                {
+                    "titulo": "16. For",
+                    "url": "https://www.youtube.com/embed/TEaUXhk4Zpg?si=MHDKfvB8azfOmy0M"
+                },
+                {
+                    "titulo": "17. Funciones",
+                    "url": "https://www.youtube.com/embed/AIRrxHHSnGI?si=VHQobmyxpHkqINJ9"
+                },
+                {
+                    "titulo": "18. Clases y objetos",
+                    "url": "https://www.youtube.com/embed/LDrQpjyLsFk?si=NywLZnRxb3yWLwuk"
+                },
+                {
+                    "titulo": "19. Getters y setters",
+                    "url": "https://www.youtube.com/embed/h37yfOs2fok?si=KvQbbZ9GRQDc-Era"
+                },
+                {
+                    "titulo": "20. Atributos accesorios",
+                    "url": "https://www.youtube.com/embed/Qr2XBMdQLW8?si=k81H9RhmJGAB_m_u"
+                },
+                {
+                    "titulo": "21. Métodos",
+                    "url": "https://www.youtube.com/embed/PBZH_MKi-Es?si=ERxihWXVyrJDV_Ym"
+                },
+                {
+                    "titulo": "22. Herencia y super",
+                    "url": "https://www.youtube.com/embed/1eUCpFmgxDA?si=BdFtVcowTWSA_Oeq"
+                },
+                {
+                    "titulo": "23. Override",
+                    "url": "https://www.youtube.com/embed/uKWUM_5OjQ0?si=FKCOYH1ICe3PtBnp"
+                },
+                {
+                    "titulo": "24. Métodos de clase",
+                    "url": "https://www.youtube.com/embed/QutW-wqpBv0?si=RvCc6Y0_0alSRs9v"
+                },
+                {
+                    "titulo": "25. Extensión y modificación del lenguaje",
+                    "url": "https://www.youtube.com/embed/QfOZV2aPJvs?si=UHKw9F60fRCDXnEy"
+                },
+                {
+                    "titulo": "26. Hash",
+                    "url": "https://www.youtube.com/embed/f46nMpF06yo?si=9L3XtJao7tc7ayJp"
+                },
+                {
+                    "titulo": "27. Bloques",
+                    "url": "https://www.youtube.com/embed/7MjukcahNcU?si=1Iob4-jZeBnGuIfn"
+                },
+                {
+                    "titulo": "28. Yield",
+                    "url": "https://www.youtube.com/embed/D0NEK78LjpE?si=2LgTTDHrgyTdasiz"
+                },
+                {
+                    "titulo": "29. Call",
+                    "url": "https://www.youtube.com/embed/xDvPAKiy2fU?si=4RioUm0_CvJG5NfB"
+                },
+                {
+                    "titulo": "30. Promoción de bloques a objetos",
+                    "url": "https://www.youtube.com/embed/V8Ar93TVb94?si=pZg4GwY4mzgjZlC_"
+                },
+                {
+                    "titulo": "31. Promoción de bloques a variables lambda",
+                    "url": "https://www.youtube.com/embed/Z4X32XUhEbY?si=U9LOZEDwT7kdq-yJ"
+                },
+                {
+                    "titulo": "32. Cierre",
+                    "url": "https://www.youtube.com/embed/8lZzYht5oGU?si=YjsT473e9Zgosife"
                 }
             ]
         }
