@@ -15,14 +15,14 @@ body {
 }
 
 .card {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.125);
   border-radius: 10px;
   transition: background-color 0.3s ease-in-out;
 }
 
 .card-tuto {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(255, 255, 255, 0.125);
   border-radius: 10px;
   transition: background-color 0.3s ease-in-out;
