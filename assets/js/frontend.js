@@ -42,6 +42,7 @@ const getTutos = async () => {
     const section = tutorialesData.tutoriales[i];
     const tutosContainer = document.getElementById(`${i + 1}cardGroup`);
     const tutoriales = section.tutoriales;
+    console.log(tutoriales);
 
     const fragment = document.createDocumentFragment();
 

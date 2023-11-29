@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function toggleDropdown(clickedElement) {
   const dropdownContent = clickedElement.nextElementSibling;
-  if(usuarioActual == null){
+  if (usuarioActual == null) {
     window.location.href = "register.html?from=frontend";
-  }else if (dropdownContent.style.display === "") {
+  } else if (dropdownContent.style.display === "") {
     dropdownContent.style.display = "none";
   } else {
     dropdownContent.style.display = "";
@@ -40,8 +40,9 @@ const getTutos = async () => {
 
   for (let i = 4; i < tutorialesData.tutoriales.length; i++) {
     const section = tutorialesData.tutoriales[i];
-    const tutosContainer = document.getElementById(`${i - 3}cardGroup`);
+    const tutosContainer = document.getElementById(`${i + 1}cardGroup`);
     const tutoriales = section.tutoriales;
+    console.log(tutoriales);
 
     const fragment = document.createDocumentFragment();
 
@@ -59,7 +60,6 @@ const getTutos = async () => {
 
       fragment.appendChild(card);
     });
-
     tutosContainer.appendChild(fragment);
   }
 };
