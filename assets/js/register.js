@@ -33,6 +33,12 @@ form.addEventListener("submit", (event) => {
   return;
 });
 
+const urlParams = new URLSearchParams(window.location.search);
+const fromFrontend = urlParams.get("from");
+if(fromFrontend){
+showErrorMessage("DEBES REGISTRARTE PARA VER EL CONTENIDO", "alert-danger");
+}
+
 function showErrorMessage(message, alertClass) {
   const danger = document.querySelector("#danger");
   danger.innerHTML = `<div class="alert ${alertClass} text-center">${message}</div>`;
