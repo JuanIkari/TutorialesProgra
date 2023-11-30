@@ -30,6 +30,10 @@ body {
   transition: background-color 0.3s ease-in-out;
 }
 
+.card-body{
+  padding-bottom: 0px;
+}
+
 .formulario {
   max-width: 500px;
   margin: 100px auto;
@@ -103,7 +107,7 @@ input[type="reset"]:hover {
 }
 
 .dropdown:hover {
-   background-color: rgba(255, 255, 255, 0.25); 
+  background-color: rgba(255, 255, 255, 0.25);
 }
 
 .dropdown {
@@ -114,4 +118,80 @@ input[type="reset"]:hover {
 
 .filtro{
   display: none;
+}
+
+.perfil-imagen {
+  width: 30px; /* ajusta el ancho según tus necesidades */
+  height: 30px; /* ajusta la altura según tus necesidades */
+  margin-right: 5px; /* ajusta el margen derecho según tus necesidades */
+  border-radius: 50%; /* agrega esquinas redondeadas para que se vea más como una imagen de perfil */
+}
+
+.fondo1:hover{
+  background-color: transparent !important;
+}
+
+.fondo2:hover{
+  background-color: rgb(60, 59, 59);
+}
+
+.perfilUser-container {
+  background-image: url("../images/bienvenido-fondo.png");
+  background-size: 100% 100%;
+  color: rgb(175, 175, 175);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.perfil-banner {
+  width: 200px; /* Ajusta el ancho de la imagen según tus preferencias */
+  height: auto;
+  border-radius: 10px;
+  margin-left: 90px;
+}
+
+.perfilUser {
+  color: white;
+  font-size: 110px;
+  font-weight: bold;
+  margin-right: 500px;
+}
+
+.container-fluid {
+  padding: 10px; /* Ajusta el espaciado según sea necesario */
+  color:rgb(255, 255, 255);
+}
+
+.minimalist-option {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+
+.minimalist-option i {
+  margin-right: 10px; /* Espaciado entre el icono y el texto */
+}
+
+.minimalist-option span {
+  font-size: 18px; /* Tamaño de fuente del texto */
+}
+
+.card-footer{
+  text-align: center;
+  background-color: transparent;
+  border-top: none;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
 }
