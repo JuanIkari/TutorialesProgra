@@ -19,8 +19,12 @@ body {
   background-color: rgba(255, 255, 255, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.125);
   border-radius: 10px;
-  color: #000;
   transition: background-color 0.3s ease-in-out;
+  color: #000;
+}
+
+.card-aux:hover{
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .card-tuto {
