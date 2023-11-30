@@ -5,7 +5,9 @@ const getTutos = async () => {
   for (let i = 0; i < tutorialesData.tutoriales.length; i++) {
     const section = tutorialesData.tutoriales[i];
     const tutosContainer = document.getElementById(`${i + 1}cardGroup`);
+    
     const tutoriales = section.tutoriales;
+    console.log(tutoriales);
 
     const fragment = document.createDocumentFragment();
 
@@ -16,17 +18,13 @@ const getTutos = async () => {
         <div class="card-tuto m-2">
           <div class="card-body">
             <h5 class="card-title">${element.titulo}</h5>
-            <iframe allowfullscreen="true" width="100%" height="280" frameborder="0"></iframe>
+            <iframe loading="lazy" type="text/html" width="100%" height="280" src="${element.url}" allowfullscreen frameborder="0"></iframe>
           </div>
         </div>
       `;
 
       fragment.appendChild(card);
-
-      const iframe = card.querySelector("iframe");
-      iframe.src = element.url;
     });
-
     tutosContainer.appendChild(fragment);
   }
 };
@@ -91,4 +89,3 @@ function toggleDropdown(clickedElement) {
     dropdownContent.style.display = "";
   }
 }
-
